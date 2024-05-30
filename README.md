@@ -1,3 +1,15 @@
+[![JS Actions](https://github.com/cbatra39/skills-write-javascript-actions/actions/workflows/my-workflow.yml/badge.svg)](https://github.com/cbatra39/skills-write-javascript-actions/actions/workflows/my-workflow.yml)
+
+
+
+
+
+
+
+
+
+
+
 <header>
 
 <!--
